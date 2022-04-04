@@ -1,5 +1,6 @@
  body {
      background-size:cover;
+     background-image:src(cards.jpg);
      font-family: 'Trebuchet MS' , 'Lucida Sans Unicode';
      text-align:center;
      color:White;
