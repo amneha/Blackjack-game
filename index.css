@@ -1,0 +1,39 @@
+ body {
+     background-size:cover;
+     font-family: 'Trebuchet MS' , 'Lucida Sans Unicode';
+     background-image:url(C:/Users/Admin/Desktop/cards.jpg);
+     text-align:center;
+     color:White;
+}
+
+h1 {
+    color:goldenrod;
+}
+
+#message{
+    font-style:italic;
+}
+
+#btn1 {
+    color:#016f32;
+    width:150px;
+    background-color:goldenrod;
+    font-weight:bold;
+    padding-top:5px;
+    padding-bottom:5px;
+    border:none;
+    border-radius: 2px;
+}
+
+button {
+    color:#016f32;
+    width:150px;
+    background-color:goldenrod;
+    font-weight:bold;
+    padding-top:5px;
+    padding-bottom:5px;
+    border:none;
+    border-radius: 2px;
+    margin-bottom:2px;
+    margin-top:2px;
+}
